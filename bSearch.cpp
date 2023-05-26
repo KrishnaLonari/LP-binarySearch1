@@ -22,7 +22,7 @@ int main(void) {
    if(index == -1){
       cout<< num <<" is not present in the array";
    }else{
-      cout<< num <<" is present at index "<< index <<" in the array";
+      cout<< num <<" is present at index "<< index <<" in the array"<<endl;
    }
    return 0;
 }
